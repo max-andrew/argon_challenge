@@ -22,6 +22,10 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### Dataset
+
+GitHub has a file limit of 100MB so the JSON dataset must be downloaded here `https://drive.google.com/file/d/1SmZ7j0aCrX71Qxjj-Ne_qsMkBLCuXFmT/view?usp=sharing` and added to the root of the backend directory `argon_challenge_backend/ctg-studies.json`.
+
 
 ## Project
 
