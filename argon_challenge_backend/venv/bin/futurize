@@ -1,4 +1,4 @@
-#!/Users/maxandrew/Dev/argon_challenge_backend/venv/bin/python3.12
+#!/Users/maxandrew/Dev/argon_challenge/argon_challenge_backend/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
